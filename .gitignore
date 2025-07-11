@@ -1,0 +1,11 @@
+vibesync/node_modules/
+vibesync/.next/
+vibesync/out/
+backend/.venv/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*~

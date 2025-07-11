@@ -1,0 +1,1 @@
+Flask>=3.0,<4.0 # Or a more specific version if known, e.g., Flask==3.1.1
