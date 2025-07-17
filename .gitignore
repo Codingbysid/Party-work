@@ -2,6 +2,7 @@ vibesync/node_modules/
 vibesync/.next/
 vibesync/out/
 backend/.venv/
+backend/.env
 .DS_Store
 Thumbs.db
 .vscode/
